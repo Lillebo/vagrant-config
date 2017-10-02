@@ -4,3 +4,7 @@ source ~/.nvm/nvm.sh
 
 # Install Node
 nvm install node
+
+# Configure git
+git config --global user.email "eirik@archivedworks.com"
+git config --global user.name "Eirik Lillebo"
